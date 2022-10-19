@@ -3,9 +3,14 @@ Anya is cutest girl in world
 Anya Likes Peanuts
 Anya Has Superpowers 
 she can steal peoples thougth
+<<<<<<< HEAD
 =======
 what anya like to eat?
 forger no 1 spy in wolrd
 takemichi is crying baby 
 And You?
 >>>>>>> b1
+=======
+you know i also have superpowers
+yes i can steal your heart hui huii
+>>>>>>> b2
